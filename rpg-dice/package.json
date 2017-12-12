@@ -1,0 +1,59 @@
+{
+  "_from": "rpg-dice",
+  "_id": "rpg-dice@0.6.0",
+  "_inBundle": false,
+  "_integrity": "sha1-/kF0n/fTaYZZlt1UxR+sN6AlEuU=",
+  "_location": "/rpg-dice",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rpg-dice",
+    "name": "rpg-dice",
+    "escapedName": "rpg-dice",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rpg-dice/-/rpg-dice-0.6.0.tgz",
+  "_shasum": "fe41749ff7d369865996dd54c51fac37a02512e5",
+  "_spec": "rpg-dice",
+  "_where": "/Users/Meldamiriel/Documents/WEBART_Atom/FINAL_McCreebot",
+  "author": {
+    "name": "lunanoko",
+    "email": "lunanoko@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lunanoko/rpg-dice/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Node module for rolling various types of dice",
+  "homepage": "https://github.com/lunanoko/rpg-dice#readme",
+  "keywords": [
+    "rpg",
+    "dice",
+    "dnd",
+    "pathfinder",
+    "roller",
+    "roll",
+    "random",
+    "number",
+    "d20"
+  ],
+  "license": "LGPL-2.1",
+  "main": "rpg-dice.js",
+  "name": "rpg-dice",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunanoko/rpg-dice.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.0"
+}
