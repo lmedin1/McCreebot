@@ -2,7 +2,7 @@
 
 ------
 
-A class project: McCreebot is a discord bot with fixed conversations + a magic 8ball interaction and a dice roller. He is based around the character Jesse McCree from Blizzard's first person shooter "Overwatch".
+A class project: McCreebot is a discord bot with fixed conversations + a magic 8ball interaction and a dice roller. His interactions are based around the character Jesse McCree from Blizzard's first person shooter "Overwatch".
 
 ------
 
