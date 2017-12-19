@@ -19,7 +19,9 @@ I hope to expand upon this bot in the future, adding a more open chat function a
       Lists all the conversation starters available.
     
     m!roll
-      Allows the user to roll any number and type of dice. For example, typing in " m!roll 10d20 " will have McCreebot respond with " You rolled: 9,19,1,10,7,11,11,13,14,2 ". 
+      Allows the user to roll any number and type of dice. 
+        For example, typing in " m!roll 10d20 " will have McCreebot respond with 
+           " You rolled: 9,19,1,10,7,11,11,13,14,2 ". 
     
     m!8ball
       Allows the user to input the command followed by a phrase that McCreebot will respond to.
