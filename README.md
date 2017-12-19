@@ -10,7 +10,6 @@ I hope to expand upon this bot in the future, adding a more open chat function a
 
 # Commands
 
-------
 
   McCreebot uses the prefix " m! " before all commands.
 
